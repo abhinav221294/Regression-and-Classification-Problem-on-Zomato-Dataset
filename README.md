@@ -3,6 +3,7 @@ Zomato is an Indian multinational restaurant aggregator and food delivery  compa
 
 
 Section A: Title: Regression model
+
 Problem:
 Restaurants from all over the world can be found here in Bengaluru. From the United States 
 to Japan, Russia to Antarctica, you get all types of cuisines here. Delivery, Dine-out, Pubs, 
@@ -13,6 +14,7 @@ hasn't been saturated yet. And new restaurants are opening every day. However, i
 become difficult for them to compete with already established restaurants. The key issues 
 that continue to pose a challenge to them include high real estate costs, rising food costs, 
 shortage of quality manpower, fragmented supply chain, and over-licensing. 
+
 Objective:
 The newly started companies are not able to decide the cost that would happen per 
 two people for once. So the Zomato company has a good analyst team who can predict the 
@@ -24,7 +26,9 @@ various reasons that customers look for and build a model which able to predict 
 two people.
 
 Section B: Title: Classification
+
 Problem Statement:
+
 The model that you built in the above case study has gone to deployment and Zomato has 
 been impressed with your data analysis and Zomoto has been believing that your analysis 
 going to be impactful. Now Zomato has been observing the orders happening online and 
@@ -33,6 +37,7 @@ offers, and the user subscription also getting low. so it has decided to give yo
 on the same. Now the problem statement is that Zomato wants to know whether the 
 customer would order the orders online or offline so that Zomato can take further 
 strategies to improve the online order.
+
 Objective:
 The Aim is to classify the orders that have been ordered online and offline. And 
 identify the patterns that lead to orders online orders as well as offline. Your model should 
